@@ -1,0 +1,20 @@
+1. Welke doctype wordt hier gebruikt?
+
+html
+
+2. Welke title wordt hier gebruikt?
+
+SportFocus vzw - Zwemlessen - Sportkampen - Voetbal
+
+3. Welke charset wordt hier gebruikt?
+
+UTF-8
+
+4. Valideer de webpagina. Is deze pagina valide?
+
+nee, er verschijnen redelijk wat errors.
+
+5. In de code staat iets ivm met favicon <link rel="icon" href="***.png" /> Zoek op het internet wat dit stukje code betekent. Waar zie je het effect van deze lijn code in Chrome?
+
+Dit is om een favicon toe te voegen.
+Een Favicon is een klein icoontje, bijvoorbeeld een logo, die je links (of rechts) van de title van jouw webpagina ziet, met als hoofddoel (waarschijnlijk) herkenbaarheid – zodat jouw webpagina in een lijst met favorieten er meteen uitspringt.
