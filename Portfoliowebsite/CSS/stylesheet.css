@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: blue;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  float: none;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: rgb(127, 176, 255);
+}
+
+.active {
+  background-color: rgb(127, 176, 255);
+}
+
+h1 {
+  color:blue;
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+p {
+  text-align: center;
+  color: grey;
+  font-size:larger;
+  padding-bottom: 1%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+h2 {
+  text-align:center;
+  color:rgb(127, 176, 255);
+  padding-bottom: 1%;
+  padding-top: 2%;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  font-size:medium;
+  color:rgb(127, 176, 255);
+  border: 5px solid;
+  
+}
+
+th,td {
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  color:rgb(127, 176, 255);
+  border: 1px solid;
+  width: 30%;
+}
+
+.formulier {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: larger;
+  color:rgb(127, 176, 255);
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom:5%;
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.html {
+  float: left;
+  margin-left: 10%;
+}
+
+.css {
+  float: right;
+  margin-right: 10%;
+  padding-bottom: 1%;
+}
+
+.noxx1 {
+  float: left;
+  margin-left: 20%;
+  padding-bottom: 1%;
+}
+
+.noxx {
+  float: right;
+  margin-right: 20%;
+  padding-bottom: 1%;
+}
